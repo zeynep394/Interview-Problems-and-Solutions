@@ -1,7 +1,3 @@
-package com.company;
-
-import java.util.ArrayList;
-
 public class Main {
     public static void is_unique(String word){
         char[] wordArray = word.toCharArray();
